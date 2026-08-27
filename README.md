@@ -218,5 +218,4 @@ runspace, which needs the `-Sta` flag.
 
 ## License
 
-No license file is included yet — add one (e.g. MIT) if you plan to share
-or accept contributions on GitHub.
+[MIT](LICENSE)
